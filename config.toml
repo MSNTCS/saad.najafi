@@ -1,9 +1,9 @@
-BaseUrl= "https://syui.cf/hugo-theme-air/"
+BaseUrl= ""
 LanguageCode= "en-US"
-Title= "Hugo Theme Air"
+Title= "Saad Najafi"
 paginate = 5
-DisqusShortname = ""
-Copyright = "All rights reserved - 2016"
+DisqusShortname = "Mohammadsadegh Najafi"
+Copyright = ""
 canonifyurls = true
 
 [author]
@@ -13,11 +13,11 @@ canonifyurls = true
     post = "/post/:year/:month/:day/:slug"
 
 [params]
-  description = "this is my description"
+  description = "Welecome to Saad's graph"
   cover = "images/user.jpg"
-  author = "syui"
+  author = "Mohammad"
   authorlocation = ""
-  authorwebsite = "https://syui.cf/hugo-theme-air"
+  authorwebsite = ""
   bio= "my bio"
   logo = "images/user.png"
   googleAnalyticsUserID = ""
@@ -25,6 +25,5 @@ canonifyurls = true
   RSSLink = ""
   githubName = "syui"
   twitterName = ""
-  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   mainSections = ["post"]
